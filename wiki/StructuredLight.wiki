@@ -39,5 +39,6 @@ Zhang and Huang (2006) "High-resolution, real-time three-dimensional shape measu
 implemented C++ code by Alex at MediaMolecule
 translated to Processing by fjenett
 
-Modified May 1, 2008 at Redfish Group by Stephen Guerin, Ben Goldsmith, Ben Lichtner, Shawn Barr and Simon Mehalek
-Additional thanks to Carl Diegert and Roger Critchlow 
+Modified May 1, 2008 at Redfish Group by Stephen Guerin, Ben Goldsmith, Ben Lichtner, Shawn Barr and Simon Mehalek. Additional thanks to Carl Diegert and Roger Critchlow. 
+
+Earlier sandtable explorations performed by Stephen Guerin and Joshua Thorp.
