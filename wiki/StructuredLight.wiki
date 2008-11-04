@@ -11,7 +11,7 @@ How to use Structured Light
       the angle offset should be around 15-20 degrees
   # if this is the first time running, flatten the surface and press "c" to calibrate
   # press spacebar to scan
-  # press "a" button to change modes
+  # press "a" key to change modes
     * normal scan
     * relative difference to known USGS heightmap
     * downhill ball roller
