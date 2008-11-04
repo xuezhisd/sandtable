@@ -1,6 +1,6 @@
 #summary StructuredLight
 
-= Introduction =
+== Introduction ==
 
 How to use Structured Light
 
@@ -11,6 +11,11 @@ How to use Structured Light
       the angle offset should be around 15-20 degrees
   # if this is the first time running, flatten the surface and press "c" to calibrate
   # press spacebar to scan
+  # press "a" button to change modes
+    * normal scan
+    * relative difference to known USGS heightmap
+    * downhill ball roller
+    * layer reveal based on height. Currently Kittens, Puppies and Lions, oh my
   # manipulate the sand surface
 
 
@@ -30,7 +35,7 @@ Steps to making a 3D scanner:
    View the 3D applet in your browser
   # Come to the Santa Fe Complex to figure out what we can combine this with to make something fun!
 
-References and Credits:
+== References and Credits: ==
 
 Song Zhang's PhD Thesis, "High-resolution, Real-time 3-D Shape Measurement"
 
